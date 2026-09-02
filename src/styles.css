@@ -11,3 +11,5 @@
 /* The full thread composition resolves in one viewport; don't reserve empty scroll space. */
 .thread-story{height:100vh}
 @media(max-width:700px){.thread-story{height:100svh}}
+
+.auth-error{margin:16px 0 0!important;color:#9a3d32!important;font-size:11px!important}.otp-input{font:24px 'DM Mono',monospace!important;letter-spacing:8px;text-align:center}.resend{display:block;margin:14px auto 0;color:var(--accent);font-size:11px;text-decoration:underline}.resend:disabled{opacity:.5;cursor:not-allowed}.oauth button:disabled,.ink-button:disabled{opacity:.55;cursor:not-allowed;transform:none}
